@@ -1,0 +1,8 @@
+EXPORTS
+  CreateObject PRIVATE
+  GetHandlerProperty2 PRIVATE
+  GetNumberOfFormats PRIVATE
+  GetIsArc PRIVATE
+  SetLargePageMode PRIVATE
+  SetCaseSensitive PRIVATE
+  SetCodecs PRIVATE
